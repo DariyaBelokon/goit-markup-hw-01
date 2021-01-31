@@ -1,2 +1,2 @@
 # html-css-dz-1
-Репозиторий для тренировки работы с системами контроля версий
+https://dariyabelokon.github.io/goit-markup-hw-01/
